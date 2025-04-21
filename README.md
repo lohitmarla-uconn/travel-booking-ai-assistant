@@ -1,6 +1,3 @@
-# Let's create a downloadable README.md file based on the user's Travel Booking AI Assistant project.
-
-readme_content = """
 # ✈️ Travel Booking AI Assistant
 
 An AI-powered travel booking assistant built using Google Gemini 1.5 Flash models, Retrieval Augmented Generation (RAG), and few-shot prompting. This project simulates smart travel ticket booking workflows, structured output generation, and dynamic FAQ retrieval using embeddings.
